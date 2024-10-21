@@ -6,8 +6,8 @@ notitle: false
 description: |
 
 people:
-  - profx
-  - chenxi
+  - Dilraba
+  - Zhang Yunlong
 
 layout: project
 image: /img/projects/ajypj.jpg
