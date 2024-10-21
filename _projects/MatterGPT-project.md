@@ -6,9 +6,9 @@ notitle: false
 description: |
 
 people:
-  - chenyan
-  - profx
-  - chenxi
+  - Dilraba
+  - Luo Jin
+  - Tang Yan
 
 layout: project
 image: /img/projects/kllr.jpg
