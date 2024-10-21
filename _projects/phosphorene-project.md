@@ -8,7 +8,7 @@ description: |
 people:
   - Dilraba
   - Wu Lei
-  - Zhao Lusi
+  - Cao Xiyue
   - Liu Yuning
 
 layout: project
