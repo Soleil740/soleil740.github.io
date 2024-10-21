@@ -12,6 +12,7 @@ people:
 layout: project
 image: /img/projects/ajypj.jpg
 last-updated: 2017-04-20
+link: https://baike.baidu.com/item/%E5%82%B2%E5%A8%87%E4%B8%8E%E5%81%8F%E8%A7%81/17604843
 ---
 
 ## 简介 Introduction
