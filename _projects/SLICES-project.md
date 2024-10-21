@@ -1,21 +1,22 @@
 ---
-title: SLICES:一种可逆晶体表示法及在人工智能驱动的晶体逆向设计中的应用 An invertible, invariant crystallographic representation for inverse design of solid-state materials using generative deep learning
+title: 《漂亮的李慧珍》是由芒果影视文化（湖南）有限公司、乐视网信息技术（北京）股份有限公司、霍尔果斯嘉行影视文化有限公司联合出品，卢至柔、杨青编剧，赵晨阳执导，迪丽热巴、盛一伦领衔主演，李溪芮、张彬彬、王骁、王一楠、任伟、王一菲、宋文作主演的喜剧爱情剧。
 
 notitle: false
 
 description: |
 
 people:
-  - rong
-  - chenyan
-  - profx
-  - chenxi
+  - Dilraba
+  - Li Xirui
+  - Zhang Binbin
+  - Sheng Yilun
 
 layout: project
-image: /img/projects/slices.png
-last-updated: 2023-06-08
-link: https://www.nature.com/articles/s41467-023-42870-7
+image: /img/projects/pldlhz.jpg
+last-updated: 2017-01-02
+link: https://baike.baidu.com/item/%E6%BC%82%E4%BA%AE%E7%9A%84%E6%9D%8E%E6%85%A7%E7%8F%8D/20109279
 ---
 
 ## 简介 Introduction
-过去十年来，得益于像简化分子输入线性表示系统（SMILES）这样的可逆且具有对称不变性的分子表示法，人工智能驱动的分子逆向设计取得了飞速进展。然而，设计晶体材料中元素的组成和结构排布以实现某些期望的性质，仍然是物理学、化学和生物学中长期存在的挑战。这主要是由于缺乏满足对称不变性的可逆晶体表示方法。为了解决这个问题，我们开发了一个简化的线输入晶体编码系统（SLICES）。这是一种基于字符串的既满足可逆性又满足对称不变性的晶体表示法。 SLICES 成功地重建了超过40,000种在结构和化学上各异的晶体结构，重建成功率高达94.95%，展现出前所未有的可逆性。此外，由于仅编码化学组成和拓扑信息，SLICES 确保了对称不变性。我们展示了SLICES在逆向设计具有直接窄带隙半导体中的应用。作为一种基于字符串的、可逆的、不变的以及高效的晶体表示法，SLICES 有潜力成为新材料发现的通用工具。
+该剧讲述了女主角李慧珍曾经拥有完美一切，长大后却逆变无人关注的“龙套女“，与送走年少时期“矮挫胖”蜕变时尚精英的“高冷男”白皓宇之间阴差阳错“守护初恋”的爱情故事。
+该剧于2017年1月2日首播，在湖南卫视青春进行时剧场、乐视视频同步播出，自播出以来除了连续创造了多个第一，同时也突破了多项记录。该剧在2018年获得第29届中国电视金鹰奖优秀电视剧奖，主演迪丽热巴也凭此剧获得第29届中国电视金鹰奖观众喜爱的女演员奖。
