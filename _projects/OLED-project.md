@@ -1,5 +1,5 @@
 ---
-title: 新型OLED材料的高通量量子化学预测与筛选 Discovery of new organic light-emitting diode (OLED) materials with high-throughput screening
+title: 《傲娇与偏见》是阿里影业和嘉行传媒联合出品，由李海蜀、黄彦威共同编剧并执导，迪丽热巴、张云龙、高伟光主演，金晨、马薇薇、范湉湉、Mike D.Angelo、周海媚、樊野联袂出演的喜剧电影，该片于2017年4月20日在中国大陆上映。
 
 notitle: false
 
@@ -10,11 +10,11 @@ people:
   - chenxi
 
 layout: project
-image: /img/projects/oled.png
-last-updated: 2020-01-26
+image: /img/projects/ajypj.jpg
+last-updated: 2017-04-20
 ---
 
 ## 简介 Introduction
-
-与国内一线OLED供应商合作，借助高通量量子化学计算及数据驱动方法，我们开展了新型OLED材料的预测研究。现在该项目正在研发中。
+该片改编自媚媚猫创作的同名网络小说，讲述了北漂网络写手唐楠楠阴差阳错收留“落魄富二代”朱侯后，又在机缘巧合下被“暖心高富帅”萧见君一见钟情的故事。
+该片在首映当日取得1057万元人民币票房，随后在2017年4月27日破1亿人民币票房。
 
