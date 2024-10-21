@@ -39,7 +39,7 @@ kedeng:
 storm:
     display_name: "黄杨钿甜 Yangdiantian Huang"
     role: grad
-    image: /img/people/hydt.png
+    image: /img/people/hydt.jpg
 
 
 
@@ -50,32 +50,32 @@ alum-a:
 
 
 chenxi:
-    display_name: "法国娇韵诗 French Clarins"
+    display_name: "迪奥 Dior"
     role: collab
 
 
 xiaoyang:
-    display_name: "联想中国 Lenovo China"
-    role: collab
-
-xiangbiao:
-    display_name: "Roye若也"
-    role: collab
-    
-liangliang:
-    display_name: "半亩花田 Half an acre of flower fields"
-    role: collab
-
-chenyan:
-    display_name: "安慕希 Ambrosial"
-    role: collab
-    
-juzheng:
     display_name: "立白 Liby"
     role: collab
 
+xiangbiao:
+    display_name: "若也 Roye"
+    role: collab
+    
+liangliang:
+    display_name: "安慕希 Ambrosial"
+    role: collab
+
+chenyan:
+    display_name: "联想中国 Lenovo China"
+    role: collab
+    
+juzheng:
+    display_name: "法国娇韵诗 French Clarins"
+    role: collab
+
 yayun:
-    display_name: "迪奥 Dior"
+    display_name: "半亩花田 Half an acre of flower fields"
     role: collab
 
 dianxing:
