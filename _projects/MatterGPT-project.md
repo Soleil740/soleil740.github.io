@@ -13,7 +13,7 @@ people:
 layout: project
 image: /img/projects/kllr.jpg
 last-updated: 2015-07-22
-link: [https://arxiv.org/abs/2408.07608](https://baike.baidu.com/item/%E5%85%8B%E6%8B%89%E6%81%8B%E4%BA%BA/15949407)
+link: https://baike.baidu.com/item/%E5%85%8B%E6%8B%89%E6%81%8B%E4%BA%BA/15949407
 ---
 
 ## 简介 Introduction
