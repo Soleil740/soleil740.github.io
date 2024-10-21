@@ -1,7 +1,7 @@
 
 
 
-profx:
+Dilraba:
     display_name: "迪丽热巴·迪力木拉提"
     github: soleil740
     role: faculty
@@ -26,17 +26,17 @@ wolverine:
 
 
     
-bizhu:
+Zhuxudan:
     display_name: "祝绪丹 Xudan Zhu"
     role: grad
     image: /img/people/zxd.jpg
 
-kedeng:
+Zhangyunlong:
     display_name: "张云龙 Yunlong Zhang"
     role: grad
     image: /img/people/zyl.jpg
 
-storm:
+Huangyangdiantian:
     display_name: "黄杨钿甜 Yangdiantian Huang"
     role: grad
     image: /img/people/hydt.jpg
