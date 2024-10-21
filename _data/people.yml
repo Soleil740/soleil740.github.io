@@ -5,7 +5,7 @@ profx:
     display_name: "迪丽热巴·迪力木拉提"
     github: soleil740
     role: faculty
-    image: /img/people/hang.jpg
+    image: /img/people/dlrb.jpg
     bio: 演员  Actor
     webpage: "https://baike.baidu.com/item/%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4/1180418"
 
@@ -27,19 +27,19 @@ wolverine:
 
     
 bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
+    display_name: "祝绪丹 Xudan Zhu"
     role: grad
-    image: /img/people/bizhu.jpg
+    image: /img/people/zxd.jpg
 
 kedeng:
-    display_name: "吴克登 Kedeng Wu"
+    display_name: "张云龙 Yunlong Zhang"
     role: grad
-    image: /img/people/kedeng.jpg
+    image: /img/people/zyl.jpg
 
 storm:
-    display_name: "虚位以待  We need you!"
+    display_name: "黄杨钿甜 Yangdiantian Huang"
     role: grad
-    image: /img/people/need.png
+    image: /img/people/hydt.png
 
 
 
