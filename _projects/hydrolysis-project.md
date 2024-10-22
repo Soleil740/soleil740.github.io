@@ -7,11 +7,7 @@ description: |
 
 people:
   - Dilraba
-  - Gao Weiguang
-  - Liu Ruilin
-  - Wang Xiao
-  - Liu Yuefei
-  - Yuan Yuxuan
+  - Gaoweiguang
 
 layout: project
 image: /img/projects/sssszss.jpg
