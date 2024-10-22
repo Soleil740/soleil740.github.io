@@ -7,7 +7,8 @@ description: |
 
 people:
   - Dilraba
-  - Zhang Yunlong
+  - Zhangyunlong
+  - Gaoweiguang
 
 layout: project
 image: /img/projects/ajypj.jpg
