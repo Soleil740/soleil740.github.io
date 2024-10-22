@@ -7,9 +7,9 @@ description: |
 
 people:
   - Dilraba
-  - Li Xirui
-  - Zhang Binbin
-  - Sheng Yilun
+  - Shengyilun
+  - Lixirui
+  - Zhangbinbin
 
 layout: project
 image: /img/projects/pldlhz.jpg
