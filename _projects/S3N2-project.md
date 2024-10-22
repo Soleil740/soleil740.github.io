@@ -7,9 +7,8 @@ description: |
 
 people:
   - Dilraba
-  - Zhou Yumin
-  - Zhang Binbin
-  - Liu Ruilin
+  - Zhouyumin
+  - Zhangbinbin
 
 layout: project
 image: /img/projects/lhrg.jpg
