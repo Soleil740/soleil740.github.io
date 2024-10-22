@@ -6,9 +6,10 @@ notitle: false
 description: |
 
 people:
+  - Tangyan
+  - Luojin
   - Dilraba
-  - Luo Jin
-  - Tang Yan
+  - Rain
 
 layout: project
 image: /img/projects/kllr.jpg
