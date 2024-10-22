@@ -7,9 +7,10 @@ description: |
 
 people:
   - Dilraba
-  - Wu Lei
-  - Cao Xiyue
-  - Liu Yuning
+  - Wulei
+  - Liuyuning
+  - Fangyilun
+  - Zhaolusi
 
 layout: project
 image: /img/projects/cgx.jpg
