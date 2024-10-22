@@ -26,21 +26,62 @@ wolverine:
 
 
     
-Zhuxudan:
-    display_name: "祝绪丹 Xudan Zhu"
+Tangyan:
+    display_name: "唐嫣 Tang Yan"
     role: grad
-    image: /img/people/zxd.jpg
+    image: /img/people/ty.jpg
+Luojin:
+    display_name: "罗晋 Luo Jin"
+    role: grad
+    image: /img/people/lj.jpg
+Rain:
+    display_name: "郑智薰 Rain"
+    role: grad
+    image: /img/people/zzx.jpg
 
 Zhangyunlong:
-    display_name: "张云龙 Yunlong Zhang"
+    display_name: "张云龙 Zhang Yunlong"
     role: grad
     image: /img/people/zyl.jpg
-
-Huangyangdiantian:
-    display_name: "黄杨钿甜 Yangdiantian Huang"
+Gaoweiguang:
+    display_name: "高伟光 Gao Weiguang"
     role: grad
-    image: /img/people/hydt.jpg
+    image: /img/people/gwg.jpg
 
+Lixirui:
+    display_name: "李溪芮 Li Xirui"
+    role: grad
+    image: /img/people/lxr.jpg
+Zhangbinbin:
+    display_name: "张彬彬 Zhang Binbin"
+    role: grad
+    image: /img/people/zbb.jpg
+Shengyilun:
+    display_name: "盛一伦 Sheng Yilun"
+    role: grad
+    image: /img/people/syl.jpg
+
+Zhouyumin:
+    display_name: "周渝民 Zhou Yumin"
+    role: grad
+    image: /img/people/zym.jpg
+
+Wulei:
+    display_name: "吴磊 Wu Lei"
+    role: grad
+    image: /img/people/wl.jpg
+Liuyuning:
+    display_name: "刘宇宁 Liu Yuning"
+    role: grad
+    image: /img/people/lyn.jpg
+Fangyilun:
+    display_name: "方逸伦 Fang Yilun"
+    role: grad
+    image: /img/people/fyl.jpg
+Zhaolusi:
+    display_name: "赵露思 Zhao Lusi"
+    role: grad
+    image: /img/people/zls.jpg
 
 
 alum-a:
